@@ -19,7 +19,6 @@ for Demo
 + [Live Preview](https://demos.creative-tim.com/now-ui-dashboard/examples/dashboard.html)
 + [Login Page](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/pages/login.html)
 + [Register Page](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/pages/register.html)
-+ [Now UI Dashboard PRO](https://demos.creative-tim.com/now-ui-dashboard-pro/examples/dashboard.html) (from $49)
 
 ### What's included
 
