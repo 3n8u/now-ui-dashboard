@@ -57,9 +57,4 @@ Now Ui Dashboard
 └── CHANGELOG.md
 ```
 
-Social Media:
-
-Steam: <https://steamcommunity.com/id/TheAdmiralGeneral>
-
-Facebook: <https://www.facebook.com/TheAdmiralGeneral>
 
